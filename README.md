@@ -4,6 +4,9 @@ This python script allows you to download all the files found in their DeviantAr
 
 ## Usage
 
-To run, type in python app.py <username>
+To run, type in: 
 
+```
+python app.py <username>
+```
 If the script finds files, it will try to save it in a directory called "download".  If a directory does not exist, it will make one.
